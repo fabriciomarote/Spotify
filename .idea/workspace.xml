@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0ccd6924-7055-46b6-ad86-b24cda7606a9" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/api/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/api/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/api/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/api/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/api/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/api/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/api/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/api/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/api/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/api/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/api/src/main/kotlin/controllers/PlaylistController.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/api/src/main/kotlin/controllers/SpotifyController.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/api/src/main/kotlin/controllers/UserController.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/api/src/main/kotlin/main/SpotifyApi.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/api/src/main/kotlin/responses/ResponseClasses.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/api/src/main/kotlin/token/RoleManager.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/api/src/main/kotlin/token/TokenController.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/api/target/classes/META-INF/spotify.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/api/target/classes/controllers/PlaylistController$editPlaylist$body$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/api/target/classes/controllers/PlaylistController$editPlaylist$body$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/api/target/classes/controllers/PlaylistController$editPlaylist$body$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/api/target/classes/controllers/PlaylistController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/api/target/classes/controllers/SpotifyController$addSong$body$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/api/target/classes/controllers/SpotifyController$addSong$body$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/api/target/classes/controllers/SpotifyController$addSong$body$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/api/target/classes/controllers/SpotifyController$addSong$body$4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/api/target/classes/controllers/SpotifyController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/api/target/classes/controllers/UserController$addPlaylist$body$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/api/target/classes/controllers/UserController$addPlaylist$body$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/api/target/classes/controllers/UserController$addPlaylist$body$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/api/target/classes/controllers/UserController$editUser$body$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/api/target/classes/controllers/UserController$editUser$body$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/api/target/classes/controllers/UserController$editUser$body$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/api/target/classes/controllers/UserController$login$body$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/api/target/classes/controllers/UserController$login$body$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/api/target/classes/controllers/UserController$login$body$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/api/target/classes/controllers/UserController$register$body$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/api/target/classes/controllers/UserController$register$body$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/api/target/classes/controllers/UserController$register$body$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/api/target/classes/controllers/UserController$register$body$4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/api/target/classes/controllers/UserController$register$body$5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/api/target/classes/controllers/UserController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/api/target/classes/main/SpotifyApi.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/api/target/classes/main/SpotifyApiKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/api/target/classes/org/api/token/InvalidToken.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/api/target/classes/org/api/token/TokenController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/api/target/classes/responses/ErrorResponse.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/api/target/classes/responses/LoginErrorResponse.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/api/target/classes/responses/LoginResponse.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/api/target/classes/responses/OkResponse.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/api/target/classes/responses/PlaylistDraftResponse.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/api/target/classes/responses/PlaylistResponse.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/api/target/classes/responses/RegisterResponse.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/api/target/classes/responses/SearchResponse.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/api/target/classes/responses/SimplePlaylist.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/api/target/classes/responses/SimpleUser.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/api/target/classes/responses/SongDraftResponse.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/api/target/classes/responses/Transform$transformer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/api/target/classes/responses/Transform.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/api/target/classes/responses/UserDraftResponse.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/api/target/classes/responses/UserResponse.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/api/target/classes/responses/UserSimpleResponse.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/api/target/classes/token/SpotifyRoleManager.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/api/target/classes/token/SpotifyRoles.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spotify/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spotify/.idea/workspace.xml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="24ZoHkEhowi0b7hx14fq9mLbn8J" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0ccd6924-7055-46b6-ad86-b24cda7606a9" name="Changes" comment="" />
+      <created>1643847394122</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1643847394122</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="kotlin-function">
+          <url>file://$PROJECT_DIR$/api/src/main/javalin/main/SpotifyApi.kt</url>
+          <line>66</line>
+          <properties>
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
