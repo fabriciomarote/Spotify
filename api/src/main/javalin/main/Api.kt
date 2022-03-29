@@ -10,7 +10,6 @@ import org.github.unqui.getSpotifyService
 import token.SpotifyRoleManager
 import token.SpotifyRoles
 
-
 class Api {
 
     fun start() {
@@ -35,7 +34,7 @@ class Api {
         app.routes {
             path("*") {
                 post(spotifyController::addSong, SpotifyRoles.USER)
-                post(userController::addPlaylist, SpotifyRoles.USER)
+
             }
             path("register") {
                 post(userController::register, SpotifyRoles.ANYONE)
@@ -46,6 +45,7 @@ class Api {
             path("user") {
                 get(userController::getUser, SpotifyRoles.USER)
                 put(userController::editUser, SpotifyRoles.USER)
+                post(userController::addPlaylist, SpotifyRoles.USER)
                 path("{userId}") {
                     get(userController::getUserById, SpotifyRoles.USER)
                 }

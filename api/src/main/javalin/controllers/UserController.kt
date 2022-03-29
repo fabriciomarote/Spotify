@@ -46,7 +46,7 @@ class UserController(private val system: SpotifyService) {
             val user = system.login(body.email, body.password)
             ctx.header("Authorization", tokenController.generate(user))
             ctx.status(200).json(RegisterResponse(user.id, user.displayName, user.image, Transform.playlistsToSimplePlaylists(user.myPlaylists), Transform.playlistsToSimplePlaylists(user.likes)))
-        }catch (e: NotFound){
+        }catch (e: UserException){
             ctx.status(404).json(LoginErrorResponse("error", "User not found"))
         }
     }

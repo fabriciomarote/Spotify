@@ -5,94 +5,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c9538dca-615d-46cd-ab63-5b1e47be69ac" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/javalin/main/Api.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/.idea/.name" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/.idea/jarRepositories.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/src/main/kotlin/controllers/PlaylistController.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/src/main/kotlin/controllers/SpotifyController.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/src/main/kotlin/controllers/UserController.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/src/main/kotlin/main/SpotifyApi.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/src/main/kotlin/responses/ResponseClasses.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/src/main/kotlin/token/RoleManager.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/src/main/kotlin/token/TokenController.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/target/classes/META-INF/spotify.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/target/classes/controllers/PlaylistController$editPlaylist$body$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/target/classes/controllers/PlaylistController$editPlaylist$body$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/target/classes/controllers/PlaylistController$editPlaylist$body$3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/target/classes/controllers/PlaylistController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/target/classes/controllers/SpotifyController$addSong$body$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/target/classes/controllers/SpotifyController$addSong$body$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/target/classes/controllers/SpotifyController$addSong$body$3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/target/classes/controllers/SpotifyController$addSong$body$4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/target/classes/controllers/SpotifyController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/target/classes/controllers/UserController$addPlaylist$body$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/target/classes/controllers/UserController$addPlaylist$body$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/target/classes/controllers/UserController$addPlaylist$body$3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/target/classes/controllers/UserController$editUser$body$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/target/classes/controllers/UserController$editUser$body$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/target/classes/controllers/UserController$editUser$body$3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/target/classes/controllers/UserController$login$body$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/target/classes/controllers/UserController$login$body$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/target/classes/controllers/UserController$login$body$3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/target/classes/controllers/UserController$register$body$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/target/classes/controllers/UserController$register$body$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/target/classes/controllers/UserController$register$body$3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/target/classes/controllers/UserController$register$body$4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/target/classes/controllers/UserController$register$body$5.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/target/classes/controllers/UserController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/target/classes/main/SpotifyApi.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/target/classes/main/SpotifyApiKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/target/classes/org/api/token/InvalidToken.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/target/classes/org/api/token/TokenController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/target/classes/responses/ErrorResponse.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/target/classes/responses/LoginErrorResponse.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/target/classes/responses/LoginResponse.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/target/classes/responses/OkResponse.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/target/classes/responses/PlaylistDraftResponse.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/target/classes/responses/PlaylistResponse.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/target/classes/responses/RegisterResponse.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/target/classes/responses/SearchResponse.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/target/classes/responses/SimplePlaylist.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/target/classes/responses/SimpleUser.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/target/classes/responses/SongDraftResponse.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/target/classes/responses/Transform$transformer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/target/classes/responses/Transform.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/target/classes/responses/UserDraftResponse.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/target/classes/responses/UserResponse.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/target/classes/responses/UserSimpleResponse.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/target/classes/token/SpotifyRoleManager.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/target/classes/token/SpotifyRoles.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/spotify.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/META-INF/spotify.kotlin_module" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/javalin/controllers/UserController.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/javalin/controllers/UserController.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/javalin/main/Api.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/javalin/main/Api.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/controllers/UserController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/controllers/UserController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/main/SpotifyApi.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/main/SpotifyApiKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/responses/ErrorResponse.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/responses/ErrorResponse.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/responses/LoginErrorResponse.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/responses/LoginErrorResponse.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/responses/LoginResponse.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/responses/LoginResponse.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/responses/OkResponse.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/responses/OkResponse.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/responses/PlaylistDraftResponse.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/responses/PlaylistDraftResponse.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/responses/PlaylistResponse.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/responses/PlaylistResponse.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/responses/RegisterResponse.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/responses/RegisterResponse.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/responses/SearchResponse.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/responses/SearchResponse.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/responses/SimplePlaylist.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/responses/SimplePlaylist.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/responses/SimpleUser.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/responses/SimpleUser.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/responses/SongDraftResponse.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/responses/SongDraftResponse.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/responses/Transform$transformer.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/responses/Transform$transformer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/responses/Transform.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/responses/Transform.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/responses/UserDraftResponse.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/responses/UserDraftResponse.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/responses/UserResponse.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/responses/UserResponse.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/responses/UserSimpleResponse.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/responses/UserSimpleResponse.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/org/example/HelloTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../spotify/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../spotify/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/main/Api.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/main/Api.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/../web/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/web-spotify/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/../web/web-spotify/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/web-spotify/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../web/web-spotify/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/web-spotify/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../web/web-spotify/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/web-spotify/public/logo192.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/web-spotify/public/logo512.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/web-spotify/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/../web/web-spotify/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/web-spotify/src/logo.svg" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -211,16 +136,6 @@
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="1" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="kotlin-line">
-          <url>file://$PROJECT_DIR$/src/main/javalin/controllers/UserController.kt</url>
-          <line>61</line>
-          <option name="timeStamp" value="3" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="kotlin-line">
-          <url>file://$PROJECT_DIR$/src/main/javalin/controllers/UserController.kt</url>
-          <line>63</line>
-          <option name="timeStamp" value="4" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="kotlin-line">
           <url>file://$PROJECT_DIR$/src/main/javalin/main/SpotifyApi</url>
