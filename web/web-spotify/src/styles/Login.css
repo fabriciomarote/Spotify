@@ -1,0 +1,38 @@
+.containerLogin {
+    display: flex;
+    justify-content: center;
+    height: 100%;
+}
+
+.textLogin {
+    font-weight: 900;
+    font-size: 20px;
+}
+
+.Medio {
+    display:flex;
+    justify-content: center;
+    padding: 30px;
+    margin: 30px;
+}
+
+.register-button {
+    margin-top: 50px;
+}
+
+.buttonRegister {
+    display:flex;
+    justify-content: center;
+    margin-top: 25px;
+}
+
+.btn {
+    color:rgb(95, 95, 95);
+    font-weight: bold;
+    border-style:double;
+    border-color: black;
+    background-color: rgb(255, 255, 255);
+    border-radius: 25px;
+    height: 55px;
+    width: 250px;
+}

@@ -1,0 +1,84 @@
+
+  .navbar {
+    background-color: black;
+  }
+
+  .container { 
+    max-height: 100%;
+    max-width: 100%;
+  }
+
+  .header {
+    height: 550px;
+    background-image: linear-gradient(150deg,rgb(47, 86, 143), rgb(95, 36, 206));
+    background-color: rgb(26, 98, 165);
+    text-align:center;
+  }
+
+  .logoMainPage {
+    height:30%;
+    width: 30%;
+    margin-left: 25px;
+  }
+
+  .text-header {
+    font-size:130px;
+    font-weight:900;
+    font-family:Arial, sans-serif;
+    line-height: 100%;
+    word-spacing:-30px;
+    margin-bottom: 60px;
+  }
+
+ .text2-header {
+  font-size:20px;
+  font-weight:600;
+  
+ }
+
+  .containerCenter {
+    position: absolute;
+    top: 55%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+
+  .filaDer {
+    height: 50px; 
+    padding: 10px; 
+  }
+
+  .links {
+    display: flex;
+    justify-content: right;
+  }
+
+  .link{
+    text-decoration: none;
+    background-color: black;
+    border-style: none;
+    color: white;
+    margin-right: 30px;
+    font-size: 1.2rem;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+  }
+  
+  .link:hover{
+    color: rgb(38, 199, 78);
+    text-decoration: none;
+    line-height: normal;
+  }
+
+  .link:active {
+    border-style: none;
+    border-color: black;
+    border: brown;
+  }
+  
+  .containerCenter {
+    color: rgb(61, 224, 97);
+  }
+
+  .filaDer {
+      text-align: right;
+  }

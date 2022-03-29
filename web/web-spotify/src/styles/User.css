@@ -1,0 +1,73 @@
+.containerUser {
+    display: flex;
+    justify-content: center;
+    height: 100%;
+}
+
+.izqUser {
+    background-color: black;
+}
+
+.derUser {
+    display:grid;
+    color: rgb(230, 230, 230);
+    background-color: rgb(37, 37, 37);
+}
+
+.perfilUser {
+    background-image: linear-gradient(rgb(90, 90, 90), rgb(49, 49, 49));
+    line-height: 30px;
+    padding: 40px;
+}
+
+.dateUserContainer {
+    display: flex;
+}
+
+.imageUser {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.dateUser {
+    display: grid;
+    justify-content: left;
+    align-items: center;
+    padding: 10px;
+}
+
+.perfil {
+    font-weight: 500;
+    font-size: 13px;
+}
+
+.nameUser {
+    font-weight: 900;
+    font-size: 50px;
+    margin-bottom: 25px;
+}
+
+.playlistsYLikes {
+    font-weight: 400;
+    font-size: 15px;
+}
+
+.dateContainer {
+    display: grid;
+    padding: 20px;
+    line-height: 30px;
+}
+
+.playlists, .likes {
+    display: flex;
+    justify-content: center;
+    grid-gap: 10px;
+    padding-left: 40px;
+    padding-right: 40px;
+}
+
+.title {
+    font-weight: 700;
+    font-size: 12px;
+}

@@ -1,0 +1,96 @@
+.containerPlaylist {
+    display: flex;
+    justify-content: center;
+    height: 100%;
+    margin-bottom: 100px;
+}
+
+.datePlaylistContainer {
+    display: flex;
+    height: 100px;
+    margin-bottom: 50px;
+}
+
+.imageUser {
+    justify-content: left;
+    border-radius: 50px;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+}
+
+.dateUser {
+    justify-content: left;
+}
+
+.buttonLike {
+    display: grid;
+    justify-content: center;
+    align-items: center;
+}
+
+.button-icon {
+    border: none;
+    border-radius: 50px;
+    background-color: rgb(71, 71, 71);
+}
+
+.button-icon ::hover{
+    border: none;
+    border-radius: 50px;
+    background-color: rgb(71, 71, 71);
+}
+
+.dataPlaylist {
+    background-image: linear-gradient(rgb(90, 90, 90), rgb(49, 49, 49));
+    line-height: 25px;
+    padding: 40px;
+}
+
+.playlistTitle {
+    font-weight: 500;
+    font-size: 13px;
+}
+
+.namePlaylist {
+    font-weight: 900;
+    font-size: 50px;
+    margin-bottom: 25px;
+}
+
+.playlistInfo {
+    font-weight: 400;
+    font-size: 15px;
+}
+
+.playlistSongsTable {
+    display: grid;
+    font-weight: 500;
+    font-size: 13px;
+    padding: 15px;
+    line-height: 10px;
+}
+
+.titlesTable {
+    color:rgb(163, 163, 163);
+    display: flex;
+}
+
+.lineTable {
+    display: grid;
+    justify-content: center;
+    align-items: center;
+    padding: 5px;
+}
+
+.SongsDate {
+    display: flex;
+    justify-content:space-evenly;
+    align-items:center;
+    padding: 5px;
+    padding-top: 15px;
+    width: 100%;
+}
+
+.SongsDate:hover {
+    background-color: rgb(83, 83, 83);
+    border-radius: 25px;
+}
